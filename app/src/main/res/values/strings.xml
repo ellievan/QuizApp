@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">5QuizApp</string>
+    <string name="title">Big Proverb Quiz</string>
+    <string name="intro">Idioms are expressions that do not mean what they appear to mean.
+        For example, when you say \"It\'s raining cats and dogs\",
+        you mean that it\'s raining heavily. In different languages, people use different idioms to describe
+        the same events. The following quiz shows idioms translated in various languages. Check if
+        you can guess what they mean in English.</string>
+    <string name="question_1"> 1. Pick the correct translation of the common English idiom: \"Kill two birds with one stone\".
+    There are 4 answers, two of them are correct. The other two are made up.</string>
+    <string name="question_1_a"> Kill two hares with one shot (Bulgarian)</string>
+    <string name="question_1_b"> Kill two flies in one slap (Dutch)</string>
+    <string name="question_1_c"> Lift two stones with one hand (Japanese) </string>
+    <string name="question_1_d"> Put both feet in one shoe (Portuguese) </string>
+    <string name="question_2"> 2. Pick the correct translation of the common English idiom \"Birds of a feather flock together\".
+    There is only one correct answer. The rest are made up.</string>
+    <string name="question_2_a"> Every lion has a pride (French)</string>
+    <string name="question_2_b"> There is passengers for every train (Polish)</string>
+    <string name="question_2_c"> God creates them, they get together (Spanish) </string>
+    <string name="question_2_d"> Like the trees in the forest (Latvian) </string>
+    <string name="question_3"> 3. Pick the correct translation of the common English idiom \"Break a leg\".
+    There is only one correct answer. The rest are made up.</string>
+    <string name="question_3_a"> Kiss them all (Hungarian)</string>
+    <string name="question_3_b"> Walk on the water (Bulgarian)</string>
+    <string name="question_4"> 4. The followining proverb in Spanish means to feel very confused: Feeling more lost than a _________ in a garage. Type the missing word in the box below.  </string>
+    <string name="submit">Submit</string>
+    <string name="total_points">Total Points:</string>
+    <string name="question_4_answer">octopus</string>
+    <string name="good_job">\nGood Job!</string>
+</resources>
